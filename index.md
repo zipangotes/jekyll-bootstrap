@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Ciao
+tagline: Zonker says hello!
 ---
 {% include JB/setup %}
+
+## Index page
+
+This is the index page, says Zonker.
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
